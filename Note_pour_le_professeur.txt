@@ -1,0 +1,11 @@
+Note_pour_le_professeur
+
+Bonjour,
+Je voulais vous informer que j’ai changé de filière la semaine dernière, passant de SSD à IDAI.
+Je n’ai donc pas encore bien acquis les bases du langage C++, et j’essaie actuellement de rattraper le programme petit à petit.
+J’avoue avoir eu du mal à faire les exercices seul, mais je préfère ne pas utiliser d’outils d’intelligence artificielle pour les faire, afin d’apprendre par moi-même et progresser réellement.
+
+Merci beaucoup pour votre compréhension.
+
+Cordialement,
+Charaf Eddine Ifrinchaou 
